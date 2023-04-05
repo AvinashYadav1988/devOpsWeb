@@ -1,1 +1,1 @@
-This JAVA application supports Java 1.8 version.
+This JAVA application supports Java 1.8 version..
